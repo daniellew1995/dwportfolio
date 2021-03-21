@@ -58,6 +58,8 @@ h5 {
       border-bottom: 2px solid #265854; }
   .navbar-light .navbar-toggler {
     border: none; }
+    .navbar-light .navbar-toggler-icon {
+      background-image: url("../assets/images/nav-toggle.svg") !important; }
 
 .project-grid .item-box {
   min-height: 200px;
