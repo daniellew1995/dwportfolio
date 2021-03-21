@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#page:not(.landing-page) {
+    margin-top: $spacer*2;
+}
+
+
+h1 {
+    font-size: $font-lg;
+    @include responsive_mobile() {
+        font-size: $font-sm;
+    }
+}
+
+
+.text-gray {
+    color: #a09f9f;
+}

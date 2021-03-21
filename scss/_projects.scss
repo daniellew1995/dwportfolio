@@ -1,0 +1,35 @@
+.project-grid {
+    .item-box {
+        min-height: 200px;
+        background-size: cover;
+
+        &.bg-primary {
+            background-image: url('../assets/images/greenbg.svg');
+        }
+        &.bg-secondary {
+            background-image: url('../assets/images/redbg.svg');
+        }
+        &.bg-danger {
+            background-image: url('../assets/images/pinkbg.svg');
+        }
+        &.bg-warning {
+            background-image: url('../assets/images/yellowbg.svg');
+        }
+    }
+
+    .tech-stack {
+        li p {
+            border-radius: $border-radius;
+        }
+    }
+
+    .project-images {
+        a.image-link {
+            img {
+                padding: $spacer;
+                max-width: 350px;
+            }
+        }
+    }
+}
+

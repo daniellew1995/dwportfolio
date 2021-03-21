@@ -1,0 +1,30 @@
+// Variables
+
+// Spacing
+$spacer:                   20px;
+
+// Colours 
+$primary:                  #265854;
+$secondary:                #d77a68;
+$danger:                   #eab2A7;
+$warning:                  #fdcd83;
+$gray-100:                 #f8f8fb;
+
+// Fonts
+$font-family-sans-serif:    "Voltaire", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-lg:                   72px !important;
+$font-sm:                   48px !important;
+
+// Borders
+$border-radius:             25px;
+
+
+// Box shadow
+$box-shadow:                #f5f5f5 0 10px 20px 0;    
+
+// Container widths
+$container-max-widths: (
+  md: 740px,
+  lg: 1100px,
+  xl: 1200px
+) ;

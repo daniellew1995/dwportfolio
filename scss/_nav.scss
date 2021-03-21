@@ -1,0 +1,21 @@
+.navbar-light {
+    box-shadow: $box-shadow;
+
+    .navbar-nav {
+        .nav-link {
+            margin: 0 ($spacer/2);
+
+            .overview & {
+                &.overview {
+                    color: $primary;
+                    display: inline-block;
+                    border-bottom: 2px solid $primary;
+                }
+            }
+        }
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+}

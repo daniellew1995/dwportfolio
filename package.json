@@ -1,0 +1,15 @@
+{
+  "name": "dwportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass scss -o styles"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "lightbox2": "^2.11.3",
+    "node-sass": "^5.0.0"
+  }
+}
