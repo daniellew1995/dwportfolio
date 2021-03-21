@@ -1,23 +1,50 @@
 body {
   height: 100vh;
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  animation: fadeInAnimation ease 3s; }
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0; }
+  16% {
+    opacity: 1; }
+  84% {
+    opacity: 1; }
+  100% {
+    opacity: 1; } }
 
 #page:not(.landing-page) {
   margin-top: 40px; }
 
 h1 {
-  font-size: 72px !important; }
+  font-size: 60px !important; }
   @media only screen and (max-width: 767px) {
     h1 {
       font-size: 48px !important; } }
 
+h5 {
+  line-height: 1.6 !important; }
+
+@media only screen and (max-width: 767px) {
+  .display-3 {
+    font-size: 48px !important; } }
+
 .text-gray {
   color: #a09f9f; }
+
+.hover-lift {
+  transition: all .2s ease-in-out; }
+  .hover-lift:hover {
+    transform: scale(1.02) translateY(-0.4rem); }
 
 #page.landing-page {
   background-image: url("../assets/images/blobbg2.svg");
   background-size: cover; }
+  @media only screen and (max-width: 767px) {
+    #page.landing-page {
+      background-image: url("../assets/images/mobile-bg.svg");
+      background-size: cover; } }
   #page.landing-page .intro-container .btn.viewmore {
     font-size: 20px; }
 

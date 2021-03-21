@@ -2,7 +2,23 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    animation: fadeInAnimation ease 3s; 
 }
+
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    16% {
+        opacity: 1;
+     }
+     84% {
+        opacity: 1;
+     }
+    100% { 
+        opacity: 1; 
+     } 
+} 
 
 #page:not(.landing-page) {
     margin-top: $spacer*2;
@@ -16,7 +32,25 @@ h1 {
     }
 }
 
+h5 {
+    line-height: 1.6 !important;
+}
+
+.display-3 {
+    @include responsive_mobile() {
+        font-size: $font-sm;
+    }
+}
+
 
 .text-gray {
     color: #a09f9f;
+}
+
+.hover-lift {
+    transition: all .2s ease-in-out;
+    
+    &:hover {
+        transform: scale(1.02) translateY(-.4rem);
+    }
 }
