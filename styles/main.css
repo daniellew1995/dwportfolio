@@ -16,6 +16,9 @@ body {
 
 #page:not(.landing-page) {
   margin-top: 40px; }
+  @media only screen and (min-width: 1200px) {
+    #page:not(.landing-page) {
+      height: auto; } }
 
 h1 {
   font-size: 60px !important; }

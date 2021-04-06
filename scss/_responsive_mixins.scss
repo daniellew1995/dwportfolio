@@ -12,3 +12,12 @@
         @content;
     }
 }
+
+
+// Laptop
+@mixin responsive_desktop () {
+    @media only screen and (min-width:1200px) {
+        @content;
+    }
+}
+
