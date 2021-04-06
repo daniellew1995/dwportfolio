@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../styles/main.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Voltaire&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+    <title>React</title>
+</head>
+
+<body> 
+    <div class="navbar-wrapper"></div>
+    <div id="page" class="container">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="project-grid d-flex flex-column align-items-center justify-content-center flex-grow-1">
+                    <div class="d-flex flex-column align-items-center text-center w-100">
+                        <h1 class="project-name">React</h1>
+                        <div class="tech-stack">
+                            <ul class="list-inline d-flex flex-wrap justify-content-center my-3">
+                                <li class="mx-2">
+                                    <p class="bg-primary text-white radius-lg py-2 px-3 mb-1">React</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-danger radius-lg py-2 px-3 mb-1">CSS</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-secondary text-white radius-lg py-2 px-3 mb-1">Semantic</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-warning radius-lg py-2 px-3 mb-1">Illustrator</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-danger py-2 radius-lg px-3 mb-1">Node</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-secondary text-white radius-lg py-2 px-3 mb-1">Git</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <p class="project-summary my-2 text-gray px-3 px-lg-5">I'm very passionate about continually learning and keeping up to date with the latest trends/technologies. 
+                        As of late, I've been working through the Udemy course 'Modern React with Redux' in my spare time. I'm roughly 40% through the course and have covered all 
+                        the native React fundementals. Next up is hooks & Redux. You can check out all the mini projects I've completed as part of this course in the link below.</p>
+                            <a href="https://github.com/daniellew1995/reactrepo">https://github.com/daniellew1995/reactrepo</a>
+                             <img src="../assets/images/squiggly.png" style="width: 45px; margin: 30px" alt="DW logo" />
+                        <div class="project-images">
+                            <section>
+                                <div>
+                                    <a class="image-link" href="../assets/images/picsproject.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+                                        <img class="image" src="../assets/images/picsproject.png" alt="Picture project snapshot" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/videoproject.png" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing.">
+                                        <img class="image" src="../assets/images/videoproject.png" alt="Video project snapshot" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/geolocation.png" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard.">
+                                        <img class="image" src="../assets/images/geolocation.png" alt="Geolcation project snapshot" />
+                                    </a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-wrapper"></div>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        // load in components
+        $('.navbar-wrapper').load('../components/nav.html');
+        $('.footer-wrapper').load('../components/footer.html');
+    });
+    </script>
+</body>
+
+</html>

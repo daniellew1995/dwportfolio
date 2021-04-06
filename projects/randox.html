@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../styles/main.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Voltaire&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+    <title>Dashboard</title>
+</head>
+
+<body> 
+    <div class="navbar-wrapper"></div>
+    <div id="page" class="container">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="project-grid d-flex flex-column align-items-center justify-content-center flex-grow-1">
+                    <div class="d-flex flex-column align-items-center text-center w-100">
+                        <h1 class="project-name">Dashboard</h1>
+                        <div class="tech-stack">
+                            <ul class="list-inline d-flex flex-wrap justify-content-center my-3">
+                                <li class="mx-2">
+                                    <p class="bg-primary text-white radius-lg py-2 px-3 mb-1">Angular 6+</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-danger radius-lg py-2 px-3 mb-1">Typescript</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-secondary text-white radius-lg py-2 px-3 mb-1">Material</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-warning radius-lg py-2 px-3 mb-1">Bootstrap</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-danger py-2 radius-lg px-3 mb-1">HTML/CSS</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-primary text-white radius-lg py-2 px-3 mb-1">Font Awesome</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <p class="project-summary my-2 text-gray px-3 px-lg-5">In my previous position at Randox I worked on the front end/design work 
+                        for this testing services Dashboard. This dashboard was eventually hooked up with C#/.NET for the backend. 
+                        </p>
+                             <img src="../assets/images/squiggly.png" style="width: 45px; margin: 30px" alt="DW logo" />
+                        <div class="project-images">
+                            <section>
+                                <div>
+                                    <a class="image-link" href="../assets/images/randox-1.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+                                        <img class="image" src="../assets/images/randox-1.png" alt="Dashboard snapshot 1" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/randox-2.png" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard.">
+                                        <img class="image" src="../assets/images/randox-2.png" alt="Dashboard snapshot 2" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/randox-3.png" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing.">
+                                        <img class="image" src="../assets/images/randox-3.png" alt="Dashboard snapshot 3" />
+                                    </a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-wrapper"></div>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        // load in components
+        $('.navbar-wrapper').load('../components/nav.html');
+        $('.footer-wrapper').load('../components/footer.html');
+    });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1983px" height="1306px" viewBox="0 0 1983 1306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <defs>
+        <radialGradient cx="50%" cy="6.47645486%" fx="50%" fy="6.47645486%" r="84.3094406%" gradientTransform="translate(0.500000,0.064765),scale(0.659102,1.000000),rotate(90.000000),translate(-0.500000,-0.064765)" id="radialGradient-1">
+            <stop stop-color="#F6B278" offset="0%"></stop>
+            <stop stop-color="#F4C69D" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="61.1653264%" cy="24.1380412%" fx="61.1653264%" fy="24.1380412%" r="84.3094406%" gradientTransform="translate(0.611653,0.241380),scale(0.659102,1.000000),rotate(90.000000),translate(-0.611653,-0.241380)" id="radialGradient-2">
+            <stop stop-color="#F6B278" offset="0%"></stop>
+            <stop stop-color="#F4C69D" offset="100%"></stop>
+        </radialGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#radialGradient-1)" x="0" y="0" width="1983" height="1307"></rect>
+        <rect id="Rectangle" fill="url(#radialGradient-2)" x="-3" y="-1" width="1983" height="1307"></rect>
+        <polygon id="Triangle" fill="#BC2B3C" points="489 751 512 767 466 767"></polygon>
+        <polygon id="Triangle" fill="#BC2B3C" points="489 751 512 767 466 767"></polygon>
+        <polygon id="Triangle" fill="#BC2B3C" points="489 751 512 767 466 767"></polygon>
+        <ellipse id="Oval" fill="#FFDCA4" cx="1599.5" cy="190.5" rx="64.5" ry="49.5"></ellipse>
+        <ellipse id="Oval" fill="#FFDCA4" cx="1651.5" cy="254" rx="64.5" ry="49"></ellipse>
+        <ellipse id="Oval" fill="#FFDCA4" cx="1579" cy="246" rx="65" ry="49"></ellipse>
+        <ellipse id="Oval" fill="#FFDCA4" cx="1664" cy="159" rx="65" ry="49"></ellipse>
+        <ellipse id="Oval" fill="#FFDCA4" cx="1708.5" cy="208" rx="64.5" ry="49"></ellipse>
+        <circle id="Oval" fill-opacity="0.65747924" fill="#FCDDC8" filter="url(#filter-3)" cx="813" cy="395" r="175"></circle>
+        <circle id="Oval" fill-opacity="0.714871066" fill="#FAC79A" filter="url(#filter-4)" cx="813" cy="395" r="275"></circle>
+        <circle id="Oval" fill="#FCDDC8" filter="url(#filter-5)" cx="813" cy="395" r="90"></circle>
+        <path d="M23.4110169,1100.80147 C180.486884,1100.80147 685,812.03498 685,671.754654 C685,531.474328 305.027271,522.945687 23.4110169,592.80147 C-258.205237,662.657253 -261,719.80147 -261,846.80147 C-261,973.80147 -133.66485,1100.80147 23.4110169,1100.80147 Z" id="Oval" fill="#F39349" transform="translate(212.000000, 825.400735) rotate(25.000000) translate(-212.000000, -825.400735) "></path>
+        <ellipse id="Oval" fill="#F39349" cx="1740.5" cy="794" rx="362.5" ry="283"></ellipse>
+        <ellipse id="Oval" fill-opacity="0.989264642" fill="#FFDCA4" cx="252" cy="329.5" rx="62" ry="58.5"></ellipse>
+        <ellipse id="Oval" fill-opacity="0.989264642" fill="#FFDCA4" cx="358.5" cy="360" rx="106.5" ry="89"></ellipse>
+        <ellipse id="Oval" fill-opacity="0.989264642" fill="#FFDCA4" cx="370.5" cy="271" rx="106.5" ry="89"></ellipse>
+        <ellipse id="Oval" fill-opacity="0.989264642" fill="#FFDCA4" cx="529.5" cy="257" rx="106.5" ry="89"></ellipse>
+        <ellipse id="Oval" fill-opacity="0.989264642" fill="#FFDCA4" cx="504.5" cy="388" rx="106.5" ry="89"></ellipse>
+        <rect id="Rectangle" fill="#C23F1A" filter="url(#filter-6)" x="0" y="759" width="1983" height="391"></rect>
+        <polygon id="Triangle" fill="#C23F1A" points="1540 746 1563 762 1517 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="1517 751 1540 767 1494 767"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="1350 746 1373 762 1327 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="489 751 512 767 466 767"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="964 738 992 762 936 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="988 746 1011 762 965 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="936 751 959 767 913 767"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="948 746 971 762 925 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="117 743 140 759 94 759"></polygon>
+        <path d="M4.03469621,1005.96519 C426.855354,898.767268 1086.17712,831.951109 1982,805.516714 L1990.0347,1307 L4,1307 C-418.797527,1213.50805 -418.785961,1113.16312 4.03469621,1005.96519 Z" id="Path-4" fill="#CF4D21"></path>
+        <polygon id="Triangle" fill="#C23F1A" points="1667 746 1690 762 1644 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="1378 751 1401 767 1355 767"></polygon>
+        <path d="M0,1307 L0,1077.25917 C1089.83146,1110.96776 1754.47181,1141.56113 1993.92105,1169.03929 C2233.3703,1196.51744 2236.06328,1242.50435 2002,1307 L0,1307 Z" id="Path-5" fill-opacity="0.590663243" fill="#EE6F34"></path>
+        <ellipse id="Oval" fill="#D85A25" cx="332" cy="1172" rx="44" ry="10"></ellipse>
+        <ellipse id="Oval" fill="#D85A25" cx="407" cy="1206" rx="28" ry="8"></ellipse>
+        <polygon id="Triangle" fill="#852E0F" points="202.5 617 279 759 126 759"></polygon>
+        <polygon id="Triangle" fill="#852E0F" points="203 557 266 699 140 699"></polygon>
+        <polygon id="Triangle" fill="#852E0F" points="203 511 266 653 140 653"></polygon>
+        <polygon id="Triangle" fill="#852E0F" points="1891.5 621 1968 763 1815 763"></polygon>
+        <polygon id="Triangle" fill="#852E0F" points="1892 561 1955 703 1829 703"></polygon>
+        <polygon id="Triangle-2" fill="#A93E17" points="393 632 437 759 349 759"></polygon>
+        <polygon id="Triangle" fill="#A93E17" points="379 576 433 703 325 703"></polygon>
+        <polygon id="Triangle" fill="#D77546" points="339.5 661 376 759 303 759"></polygon>
+        <polygon id="Triangle" fill="#D77546" points="341 629 383 727 299 727"></polygon>
+        <polygon id="Triangle" fill="#D77546" points="1713.5 661 1750 759 1677 759"></polygon>
+        <polygon id="Triangle" fill="#D77546" points="1714.5 581 1751 679 1678 679"></polygon>
+        <polygon id="Triangle" fill="#D77546" points="1714 630 1756 728 1672 728"></polygon>
+        <polygon id="Triangle" fill="#D9662F" points="1601 608 1655 759 1547 759"></polygon>
+        <polygon id="Triangle" fill="#D9662F" points="1603 484 1657 635 1549 635"></polygon>
+        <polygon id="Triangle" fill="#D9662F" points="1602 560 1664 711 1540 711"></polygon>
+        <polygon id="Triangle" fill="#852E0F" points="1892 515 1955 657 1829 657"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="661 751 684 767 638 767"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="506 754 529 770 483 770"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="89 746 112 762 66 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="289 746 312 762 266 762"></polygon>
+        <polygon id="Triangle" fill="#C23F1A" points="29 751 52 767 6 767"></polygon>
+        <ellipse id="Oval" fill="#D85A25" cx="1056" cy="1230" rx="28" ry="8"></ellipse>
+        <ellipse id="Oval" fill="#D85A25" cx="824" cy="1198" rx="28" ry="8"></ellipse>
+        <ellipse id="Oval" fill="#D85A25" cx="77.5" cy="1285.5" rx="112.5" ry="37.5"></ellipse>
+        <ellipse id="Oval" fill="#D85A25" cx="1383" cy="1214" rx="96" ry="24"></ellipse>
+        <ellipse id="Oval" fill="#D85A25" cx="1817" cy="1268" rx="44" ry="10"></ellipse>
+        <path d="M1124.73682,329.599133 C1132.5641,336.695189 1153.77741,343.065321 1155.85307,340.367139 C1157.92874,337.668957 1137.40416,320.972082 1132.64138,319.323887 C1127.8786,317.675693 1116.90953,322.503076 1124.73682,329.599133 Z" id="Path-6" fill="#C14328" transform="translate(1139.000000, 330.000000) rotate(175.000000) translate(-1139.000000, -330.000000) "></path>
+        <path d="M1137.30028,317.599133 C1146.73907,324.695189 1172.31982,331.065321 1174.82282,328.367139 C1177.32583,325.668957 1152.5756,308.972082 1146.83225,307.323887 C1141.08889,305.675693 1127.8615,310.503076 1137.30028,317.599133 Z" id="Path-6" fill="#C14328" transform="translate(1154.500000, 318.000000) rotate(-93.000000) translate(-1154.500000, -318.000000) "></path>
+        <path d="M1205.56317,199.451612 C1201.73844,196.256548 1191.8822,194.006883 1191.04935,195.442027 C1190.21651,196.877171 1200.16998,204.30322 1202.39152,204.916943 C1204.61306,205.530666 1209.38789,202.646676 1205.56317,199.451612 Z" id="Path-6" fill="#C14328"></path>
+        <path d="M1206.33324,202.212607 C1209.54003,197.283528 1211.98324,184.263513 1210.60881,183.076999 C1209.23438,181.890484 1201.75355,194.765137 1201.09911,197.694111 C1200.44468,200.623084 1203.12645,207.141686 1206.33324,202.212607 Z" id="Path-6" fill="#C14328"></path>
+    </g>
+</svg>

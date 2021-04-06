@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../styles/main.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Voltaire&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+    <title>Portfolio</title>
+</head>
+
+<body> 
+    <div class="navbar-wrapper"></div>
+    <div id="page" class="container">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="project-grid d-flex flex-column align-items-center justify-content-center flex-grow-1">
+                    <div class="d-flex flex-column align-items-center text-center w-100">
+                        <h1 class="project-name">Portfolio</h1>
+                        <div class="tech-stack">
+                            <ul class="list-inline d-flex flex-wrap justify-content-center my-3">
+                                <li class="mx-2">
+                                    <p class="bg-primary text-white radius-lg py-2 px-3 mb-1">HTML5/SCSS</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-danger radius-lg py-2 px-3 mb-1">Bootstrap</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-secondary text-white radius-lg py-2 px-3 mb-1">Sketch</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-warning radius-lg py-2 px-3 mb-1">jQuery</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-danger py-2 radius-lg px-3 mb-1">LightBox 2</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-primary text-white radius-lg py-2 px-3 mb-1">Node</p>
+                                </li>
+                                <li class="mx-2">
+                                    <p class="bg-secondary text-white radius-lg py-2 px-3 mb-1">Git</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <p class="project-summary my-2 text-gray">Well.. you're already here! This site is used to showcase my projects, both functional and 
+                        design based - and a mixture of both! You can check out the codebase in the link below.</p>
+                        <a href="https://github.com/daniellew1995/dwportfolio">https://github.com/daniellew1995/dwportfolio</a>
+                             <img src="../assets/images/squiggly.png" style="width: 45px; margin: 30px" alt="DW logo" />
+                        <div class="project-images">
+                            <section>
+                                <div>
+                                    <a class="image-link" href="../assets/images/up2example.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+                                        <img class="image" src="../assets/images/up2example.png" alt="Plymouth snippet" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/loginexample.png" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard.">
+                                        <img class="image" src="../assets/images/loginexample.png" alt="GGI login snippet" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/nfonexample.png" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing.">
+                                        <img class="image" src="../assets/images/nfonexample.png" alt="NFON snippet" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/ggiexample.png" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close.">
+                                        <img class="image" src="../assets/images/ggiexample.png" alt="GGI snippet" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/redrowexample.png" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing.">
+                                        <img class="image" src="../assets/images/redrowexample.png" alt="Redrow snippet" />
+                                    </a>
+                                    <a class="image-link" href="../assets/images/aokexample.png" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close.">
+                                        <img class="image" src="../assets/images/aokexample.png" alt="AOK snippet" />
+                                    </a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-wrapper"></div>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        // load in components
+        $('.navbar-wrapper').load('../components/nav.html');
+        $('.footer-wrapper').load('../components/footer.html');
+    });
+    </script>
+</body>
+
+</html>

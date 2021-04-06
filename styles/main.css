@@ -56,9 +56,11 @@ h5 {
       color: #265854;
       display: inline-block;
       border-bottom: 2px solid #265854; }
+  .navbar-light .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+    background-image: url("../assets/images/x-icon.svg") !important; }
   .navbar-light .navbar-toggler {
     border: none; }
-    .navbar-light .navbar-toggler-icon {
+    .navbar-light .navbar-toggler .navbar-toggler-icon {
       background-image: url("../assets/images/nav-toggle.svg") !important; }
 
 .project-grid .item-box {

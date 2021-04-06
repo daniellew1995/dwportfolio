@@ -15,10 +15,14 @@
         }
     }
 
+    .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+        background-image: url('../assets/images/x-icon.svg')!important;
+    }
+
     .navbar-toggler {
         border: none;
 
-        &-icon {
+        .navbar-toggler-icon {
             background-image: url('../assets/images/nav-toggle.svg')!important;
         }
     }

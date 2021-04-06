@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1993px" height="1326px" viewBox="0 0 1993 1326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E68A11" stop-opacity="0.697197334" offset="0%"></stop>
+            <stop stop-color="#F5540F" stop-opacity="0.899694056" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFBED6" offset="0%"></stop>
+            <stop stop-color="#4F42A3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FCFCFC" x="-67" y="-47" width="2114" height="1424"></rect>
+        <rect id="Rectangle" stroke="#D5D5D5" fill="#FFFFFF" x="10.5" y="10.5" width="1973" height="1306"></rect>
+        <ellipse id="Oval" fill="#FFB974" cx="397" cy="160.5" rx="25" ry="18.5"></ellipse>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="90" y="98" width="1815" height="520"></rect>
+        <ellipse id="Oval" fill="#FFB974" cx="1330" cy="328" rx="19" ry="14"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="397" cy="160.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1782.5" cy="216" rx="42.5" ry="27"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1825" cy="197.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="397" cy="160.5" rx="25" ry="18.5"></ellipse>
+        <rect id="Rectangle" fill="#C04810" x="258" y="256" width="12" height="9"></rect>
+        <path d="M264,254 C292,226.471801 306,204.915025 306,189.32967 C306,165.951639 287.195959,147 264,147 C240.804041,147 222,165.951639 222,189.32967 C222,204.915025 236,226.471801 264,254 Z" id="Oval" fill="#C04810"></path>
+        <rect id="Rectangle" fill="#C04810" x="630" y="321" width="15" height="11"></rect>
+        <path d="M637.5,319 C671.166667,285.811798 688,259.822787 688,241.032967 C688,212.848238 665.39038,190 637.5,190 C609.60962,190 587,212.848238 587,241.032967 C587,259.822787 603.833333,285.811798 637.5,319 Z" id="Oval" fill="#C04810"></path>
+        <rect id="Rectangle" fill="#C04810" x="1556" y="235" width="11" height="8"></rect>
+        <path d="M1561.5,234 C1586.5,210.330894 1599,191.796096 1599,178.395604 C1599,158.294867 1582.21068,142 1561.5,142 C1540.78932,142 1524,158.294867 1524,178.395604 C1524,191.796096 1536.5,210.330894 1561.5,234 Z" id="Oval" fill="#C04810"></path>
+        <text id="Find-your-perfect-ho" font-family="AvenirNext-DemiBold, Avenir Next" font-size="55" font-weight="500" letter-spacing="1.72791781" fill="#FFFFFF">
+            <tspan x="644" y="270">Find your perfect holiday!</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFFFFF" x="415" y="366" width="1178" height="95" rx="11"></rect>
+        <text id="Location" font-family="GujaratiSangamMN, Gujarati Sangam MN" font-size="22" font-weight="normal" letter-spacing="0.691167125" fill="#AAAAAA">
+            <tspan x="445" y="421">Location</tspan>
+        </text>
+        <g id="expand_more-24px" transform="translate(555.000000, 402.000000)">
+            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            <polygon id="Path" fill="#AAAAAA" fill-rule="nonzero" points="16.59 8.59 12 13.17 7.41 8.59 6 10 12 16 18 10"></polygon>
+        </g>
+        <rect id="Rectangle" stroke="#CDCBCB" x="428.5" y="379.5" width="163" height="67" rx="11"></rect>
+        <text id="Search.." font-family="GujaratiSangamMN, Gujarati Sangam MN" font-size="30" font-weight="normal" letter-spacing="0.942500625" fill="#AAAAAA">
+            <tspan x="609" y="423">Search..</tspan>
+        </text>
+        <g id="search-24px" transform="translate(1514.000000, 390.000000)">
+            <polygon id="Path" points="0 0 54 0 54 54 0 54"></polygon>
+            <path d="M34.8730703,31.5283019 L33.1114923,31.5283019 L32.4871355,30.9262436 C34.6723842,28.3842196 35.9879931,25.084048 35.9879931,21.4939966 C35.9879931,13.4888508 29.4991424,7 21.4939966,7 C13.4888508,7 7,13.4888508 7,21.4939966 C7,29.4991424 13.4888508,35.9879931 21.4939966,35.9879931 C25.084048,35.9879931 28.3842196,34.6723842 30.9262436,32.4871355 L31.5283019,33.1114923 L31.5283019,34.8730703 L42.67753,46 L46,42.67753 L34.8730703,31.5283019 Z M21.4939966,31.5283019 C15.941681,31.5283019 11.4596913,27.0463122 11.4596913,21.4939966 C11.4596913,15.941681 15.941681,11.4596913 21.4939966,11.4596913 C27.0463122,11.4596913 31.5283019,15.941681 31.5283019,21.4939966 C31.5283019,27.0463122 27.0463122,31.5283019 21.4939966,31.5283019 Z" id="Shape" fill="#AAAAAA" fill-rule="nonzero"></path>
+        </g>
+        <polygon id="Path-7" fill="#813511" points="1479 617 1531.88436 550.728153 1564.5 550.728153 1611 498.452229 1611 520.907301 1647 476 1713.79812 550.728153 1730 535.64571 1754.00548 565.225738 1798 535.64571 1865 617"></polygon>
+        <polygon id="Path-7" fill="#984118" points="211 618 263.884362 551.728153 296.5 551.728153 343 499.452229 343 521.907301 379 477 445.798124 551.728153 462 536.64571 486.005478 566.225738 530 536.64571 597 618"></polygon>
+        <polygon id="Path-7" fill="#813511" points="90 618 142.884362 531.517589 175.5 531.517589 222 463.299363 222 492.602436 258 434 324.798124 531.517589 341 511.835536 365.005478 550.436424 409 511.835536 476 618"></polygon>
+        <ellipse id="Oval" fill="#FFB974" cx="1301" cy="327.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1276" cy="314.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1302" cy="301.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1327" cy="309.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1330" cy="328" rx="19" ry="14"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1732" cy="224.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1800" cy="175.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1769.5" cy="204" rx="37.5" ry="27"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="1756.5" cy="193.5" rx="42.5" ry="31.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="404" cy="179.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="434" cy="171.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#FFB974" cx="459" cy="160.5" rx="25" ry="18.5"></ellipse>
+        <text id="Cheap-deals-for-summ" font-family="AvenirNext-DemiBold, Avenir Next" font-size="22" font-weight="500" letter-spacing="0.691167125" fill="#FFFFFF">
+            <tspan x="744" y="320">Cheap deals for summer 2021 now available.</tspan>
+        </text>
+        <rect id="Rectangle" fill="url(#linearGradient-2)" x="91" y="726" width="1815" height="520"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" x="405" y="987" width="1178" height="95" rx="11"></rect>
+        <rect id="Rectangle" stroke="#CDCBCB" x="418.5" y="1000.5" width="162" height="67" rx="11"></rect>
+        <text id="Search.." font-family="GujaratiSangamMN, Gujarati Sangam MN" font-size="30" font-weight="normal" letter-spacing="0.942500625" fill="#AAAAAA">
+            <tspan x="599" y="1044">Search..</tspan>
+        </text>
+        <g id="search-24px" transform="translate(1504.000000, 1011.000000)">
+            <polygon id="Path" points="0 0 54 0 54 54 0 54"></polygon>
+            <path d="M34.8730703,31.5283019 L33.1114923,31.5283019 L32.4871355,30.9262436 C34.6723842,28.3842196 35.9879931,25.084048 35.9879931,21.4939966 C35.9879931,13.4888508 29.4991424,7 21.4939966,7 C13.4888508,7 7,13.4888508 7,21.4939966 C7,29.4991424 13.4888508,35.9879931 21.4939966,35.9879931 C25.084048,35.9879931 28.3842196,34.6723842 30.9262436,32.4871355 L31.5283019,33.1114923 L31.5283019,34.8730703 L42.67753,46 L46,42.67753 L34.8730703,31.5283019 Z M21.4939966,31.5283019 C15.941681,31.5283019 11.4596913,27.0463122 11.4596913,21.4939966 C11.4596913,15.941681 15.941681,11.4596913 21.4939966,11.4596913 C27.0463122,11.4596913 31.5283019,15.941681 31.5283019,21.4939966 C31.5283019,27.0463122 27.0463122,31.5283019 21.4939966,31.5283019 Z" id="Shape" fill="#AAAAAA" fill-rule="nonzero"></path>
+        </g>
+        <ellipse id="Oval" fill="#FFB974" cx="429" cy="147.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="378" cy="797.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="385" cy="816.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="415" cy="808.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="440" cy="797.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="410" cy="784.5" rx="25" ry="18.5"></ellipse>
+        <polygon id="Path-8" fill="#984118" points="1508 618 1587 564.772112 1611 591.386056 1611 554.409077 1636.33729 586.204538 1714 505.370778 1733.5 521.719359 1757 505.370778 1782.5 521.719359 1825 486 1905 618"></polygon>
+        <polygon id="Path-7" fill="#5A337B" points="1479 1245 1531.88436 1178.72815 1564.5 1178.72815 1611 1126.45223 1611 1148.9073 1647 1104 1713.79812 1178.72815 1730 1163.64571 1754.00548 1193.22574 1798 1163.64571 1865 1245"></polygon>
+        <polygon id="Path-7" fill="#3E337B" points="211 1246 263.884362 1179.72815 296.5 1179.72815 343 1127.45223 343 1149.9073 379 1105 445.798124 1179.72815 462 1164.64571 486.005478 1194.22574 530 1164.64571 597 1246"></polygon>
+        <polygon id="Path-7" fill="#2F2564" points="90 1246 142.884362 1159.51759 175.5 1159.51759 222 1091.29936 222 1120.60244 258 1062 324.798124 1159.51759 341 1139.83554 365.005478 1178.43642 409 1139.83554 476 1246"></polygon>
+        <polygon id="Path-8" fill="#2F2564" points="1508 1246 1587 1192.77211 1611 1219.38606 1611 1182.40908 1636.33729 1214.20454 1714 1133.37078 1733.5 1149.71936 1757 1133.37078 1782.5 1149.71936 1825 1114 1905 1246"></polygon>
+        <rect id="Rectangle" fill-opacity="0.797994974" fill="#C44C90" x="233" y="891" width="12" height="9"></rect>
+        <path d="M239,889 C267,861.471801 281,839.915025 281,824.32967 C281,800.951639 262.195959,782 239,782 C215.804041,782 197,800.951639 197,824.32967 C197,839.915025 211,861.471801 239,889 Z" id="Oval" fill-opacity="0.797994974" fill="#C44C90"></path>
+        <rect id="Rectangle" fill-opacity="0.797994974" fill="#C44C90" x="616" y="947" width="15" height="11"></rect>
+        <path d="M623.5,945 C657.166667,911.811798 674,885.822787 674,867.032967 C674,838.848238 651.39038,816 623.5,816 C595.60962,816 573,838.848238 573,867.032967 C573,885.822787 589.833333,911.811798 623.5,945 Z" id="Oval" fill-opacity="0.797994974" fill="#C44C90"></path>
+        <rect id="Rectangle" fill="#C45A9B" x="1582" y="887" width="11" height="8"></rect>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1772.5" cy="875" rx="42.5" ry="27"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1815" cy="856.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1722" cy="883.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1790" cy="834.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1746.5" cy="852.5" rx="42.5" ry="31.5"></ellipse>
+        <path d="M1587.5,886 C1612.5,862.330894 1625,843.796096 1625,830.395604 C1625,810.294867 1608.21068,794 1587.5,794 C1566.78932,794 1550,810.294867 1550,830.395604 C1550,843.796096 1562.5,862.330894 1587.5,886 Z" id="Oval" fill="#C45A9B"></path>
+        <text id="Find-your-perfect-ho" font-family="AvenirNext-DemiBold, Avenir Next" font-size="55" font-weight="500" letter-spacing="1.72791781" fill="#FFFFFF">
+            <tspan x="635" y="891">Find your perfect holiday!</tspan>
+        </text>
+        <text id="Cheap-deals-for-summ" font-family="AvenirNext-DemiBold, Avenir Next" font-size="22" font-weight="500" letter-spacing="0.691167125" fill="#FFFFFF">
+            <tspan x="712" y="945">Cheap deals for summer 2021 now available. </tspan>
+        </text>
+        <text id="Location" font-family="GujaratiSangamMN, Gujarati Sangam MN" font-size="22" font-weight="normal" letter-spacing="0.691167125" fill="#AAAAAA">
+            <tspan x="434" y="1042">Location</tspan>
+        </text>
+        <g id="expand_more-24px" transform="translate(544.000000, 1022.000000)">
+            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            <polygon id="Path" fill="#AAAAAA" fill-rule="nonzero" points="16.59 8.59 12 13.17 7.41 8.59 6 10 12 16 18 10"></polygon>
+        </g>
+        <text id="Trending:-Turkey,-Gr" font-family="AvenirNext-Bold, Avenir Next" font-size="22" font-weight="bold" letter-spacing="0.691167125" fill="#FFFFFF">
+            <tspan x="784" y="508">Trending</tspan>
+            <tspan x="884.327337" y="508" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal">: Turkey, Greece, Portugal</tspan>
+        </text>
+        <text id="Trending:-Turkey,-Gr" font-family="AvenirNext-Bold, Avenir Next" font-size="22" font-weight="bold" letter-spacing="0.691167125" fill="#FFFFFF">
+            <tspan x="774" y="1135">Trending</tspan>
+            <tspan x="874.327337" y="1135" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal">: Turkey, Greece, Portugal</tspan>
+        </text>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1312" cy="953.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1286" cy="942.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1312" cy="929.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1337" cy="937.5" rx="25" ry="18.5"></ellipse>
+        <ellipse id="Oval" fill="#EDC4DE" cx="1340" cy="956" rx="19" ry="14"></ellipse>
+    </g>
+</svg>
