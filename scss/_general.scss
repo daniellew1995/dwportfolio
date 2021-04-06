@@ -22,10 +22,6 @@ body {
 
 #page:not(.landing-page) {
     margin-top: $spacer*2;
-
-    @include responsive_desktop() {
-        height: auto;
-    }
 }
 
 
